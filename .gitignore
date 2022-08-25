@@ -125,5 +125,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-/app/gh-pages
-/app/gh-pages.pub
+/gh-pages
+/gh-pages.pub

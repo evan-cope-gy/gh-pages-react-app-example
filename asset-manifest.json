@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gh-pages-react-app-example/static/css/main.073c9b0a.css",
+    "main.js": "/gh-pages-react-app-example/static/js/main.568add36.js",
+    "static/media/swirl.png": "/gh-pages-react-app-example/static/media/swirl.3f182a64acb51ede903d.png",
+    "index.html": "/gh-pages-react-app-example/index.html",
+    "main.073c9b0a.css.map": "/gh-pages-react-app-example/static/css/main.073c9b0a.css.map",
+    "main.568add36.js.map": "/gh-pages-react-app-example/static/js/main.568add36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.568add36.js"
+  ]
+}
